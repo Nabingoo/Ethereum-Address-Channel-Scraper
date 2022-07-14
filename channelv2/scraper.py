@@ -57,4 +57,4 @@ async def scrape(ctx):
     await ctx.channel.send("done")
 
 
-bot.run("OTYzMTE0Mjk4NTM4ODg1MTYw.YlRYFg.PYKdCspm0_Nko_74K_adj4n5eGk")
+bot.run("TOKEN")
